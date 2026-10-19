@@ -1,8 +1,12 @@
 # blippy
 blippy
-A short description of what my project does.
-platformer game
+A fast paced platformer where you jump and run to reach the end of the level.
 
-## How to use
-Explain how someone can try or run it.
-use arrow keys or wasd to control the player and finish all 6 levels
+How to Play
+- Run and jump your way across platforms to reach the apple and unlock the next level.
+- Do not fall into the water. Misjudge a jump, and you will have to restart.
+- Beat all 6 custom-built levels that get progressively harder.
+
+controls
+- WASD: W (Jump/Up), A (Move Left), D (Move Right)
+- Arrow Keys: ▲ (Jump/Up), ◄ (Move Left), ► (Move Right)
