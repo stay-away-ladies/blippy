@@ -1,4 +1,9 @@
 # blippy
+
+## Play the demo
+
+You can play the web version here: [itch.io demo](https://stay-away-ladies.itch.io/yipee)
+
 blippy
 A fast paced platformer where you jump and run to reach the end of the level.
 
